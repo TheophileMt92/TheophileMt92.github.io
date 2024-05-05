@@ -1,4 +1,12 @@
-# TheophileMt92.github.io
+# Data scientist, Researcher 
+
+#### Technical Skills: R, Python, Git, Github 
+
+## Education 
+- Ph.D., Ecology | Université Claude Bernard Lyon I (_2023_)
+- M.S., Ecology | Université de Pau des Pays de l'Adour (_2016_)
+- B.S., Ecology | Université de Montpellier 2 (_2014_) 
+
 
 # h1 heading
 ## h2 heading 
