@@ -12,10 +12,10 @@
 - Coordinated over 60 scientists for the submission of Important Shark and Ray Areas across the Mediterranean and Black Seas and the Western Indian Ocean Region. 
 - Lead research on shortfalls in the protection of Important Shark and Ray Areas in the Central and South American Pacific, paper submitted in Marine Policy with over 40 co-authors. 
   
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-
+**Research scientist @ Foundation for research on biodiversity, Montpellier - France (_2021 - 2022_)**
+- Analysed data on human population growth within and near protected areas over the last two centuries in the USA.
+- Led research on human disturbance impacts on freshwater biodiversity in New Zealand.
+-	Presented research findings orally within a large international research group (PARSEC).
 
 ## Publications
 10. Mouton T.L., Gonzalez-Pestana A., Rohner C.A., Charles R., García-Rodríguez E., Kyne P.M., Batlle-Morera A., Notarbartolo di Sciara G., Armstrong A.O. et al. (2024). “Shortfalls in the protection of Important Shark and Ray Areas undermine shark conservation efforts in the Central and South American Pacific.” Submitted to: Marine Policy. (Major revisions)
