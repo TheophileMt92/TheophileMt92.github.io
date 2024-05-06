@@ -1,6 +1,6 @@
 # Data scientist, Researcher 
 
-#### Technical Skills: R, Python.  
+#### Technical Skills: R, Python, QGIS, ArcGIS, Git, Github, Microsoft suite.  
 
 ## Education 
 - Ph.D., Ecology | Université Claude Bernard Lyon I (_2023_)
@@ -26,10 +26,7 @@
 - Led research on human disturbance impacts on freshwater biodiversity in Waikato Region Streams. 
 - Conducted fieldwork in a remote New Caledonia atoll and in New Zealand streams. 
 
-
-
-
-## Publications
+## Journal Articles 
 10. Mouton T.L., Gonzalez-Pestana A., Rohner C.A., Charles R., García-Rodríguez E., Kyne P.M., Batlle-Morera A., Notarbartolo di Sciara G., Armstrong A.O. et al. (2024). “Shortfalls in the protection of Important Shark and Ray Areas undermine shark conservation efforts in the Central and South American Pacific.” Submitted to: Marine Policy. (Major revisions)
 9. Mouton T.L., A. Boyé, M. Mclean, J.D. Tonkin, S. Dolédec, N. Bonada, M. Floury, P. Verburg, N. Mouquet, D. Mouillot, F. Leprieur (2024). “Climate change reverses the latitudinal species and trait richness gradients of river invertebrates.” Submitted to: Proceedings of the Royal Society B: Biological Sciences. (Major revisions)
 8. Pimiento C., C. Albouy, D. Silvestro, T. L. Mouton, L. Velez, D. Mouillot, A. B. Judah, J. N. Griffin and F. Leprieur (2023). "Functional diversity of sharks and rays is highly vulnerable and supported by unique species and locations worldwide." Nature Communications 14(1): 7691.
@@ -41,3 +38,9 @@
 2. Stephenson F., K. Goetz, B.R. Sharp, T.L. Mouton, F.L. Beets, J. Roberts, A.B. MacDiarmid, R. Constantine and C.J. Lundquist (2020). "Modelling the spatial distribution of cetaceans in New Zealand waters." Diversity and Distributions 26(4): 495-516.
 1. Mouton T.L., F.E. Matheson, F. Stephenson, P. D. Champion, S. Wadhwa, M.P. Hamer, A. Catlin and T. Riis (2019). "Environmental filtering of native and non-native stream macrophyte assemblages by habitat disturbances in an agricultural landscape." Science of The Total Environment 659: 1370-1381.
 
+## Scientific reports 
+5. Jabado R., P.M. Kyne, E. Garcia-Rodriguez, R. Charles, A.O. Armstrong, T.L. Mouton, A. Gonzales-Pestana, A. Battle-Morera, C.A. Rohner (2024). Western Indian Ocean: a regional compendium of Important Shark and Ray Areas. IUCN SSC SSG Shark Specialist Group.  
+4. Jabado R., E. Garcia-Rodriguez, P.M. Kyne, R. Charles, A.O. Armstrong, J. Bortoluzzi, T.L. Mouton, A. Gonzales-Pestana, A. Battle-Morera, C.A. Rohner, G. Notarbartolo di Sciara (2023). Mediterranean and Black Seas: a regional compendium of Important Shark and Ray Areas. IUCN SSC SSG Shark Specialist Group.  
+3. Stephenson F, Rowden A., Anderson T., Hewitt J., Costello M., Pinkerton M., Morrison M., Clark M., Wadhwa S., Mouton T.L., Lundquist C.J. (2018). Mapping Key Ecological Areas in the New Zealand Marine Environment: Data collation. Prepared for the Department of Conservation. November 2018
+2. Stephenson F., Goetz K., Mouton T.L., Beets F., Hailes S., Roberts J., Pinkerton M., MacDiarmid A. (2020). Spatial distribution modelling of New Zealand cetacean species. Fisheries New Zealand. New Zealand Aquatic Environment and Biodiversity Report No. 240. 217 p.
+1. de Winton, M., Mouton T.L. (2018) Technical Report on Vegetation Status in Waituna Lagoon: 2009–2018. Prepared for Department of Conservation.
