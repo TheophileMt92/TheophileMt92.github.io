@@ -19,3 +19,4 @@
 3. Stephenson F., J.E. Hewitt, L.G. Torres, T.L. Mouton, T. Brough, K.T. Goetz, C.J. Lundquist, A. B. MacDiarmid, J. Ellis, and R. Constantine (2021). “Cetacean conservation planning in a global diversity hotspot: dealing with uncertainty and data deficiencies”. Ecosphere 12(7)
 2. Stephenson F., K. Goetz, B.R. Sharp, T.L. Mouton, F.L. Beets, J. Roberts, A.B. MacDiarmid, R. Constantine and C.J. Lundquist (2020). "Modelling the spatial distribution of cetaceans in New Zealand waters." Diversity and Distributions 26(4): 495-516.
 1. Mouton T.L., F.E. Matheson, F. Stephenson, P. D. Champion, S. Wadhwa, M.P. Hamer, A. Catlin and T. Riis (2019). "Environmental filtering of native and non-native stream macrophyte assemblages by habitat disturbances in an agricultural landscape." Science of The Total Environment 659: 1370-1381.
+{: reversed="reversed"}
