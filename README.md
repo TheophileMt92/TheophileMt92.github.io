@@ -1,6 +1,6 @@
 # Data scientist, Researcher 
 
-#### Technical Skills: R, Python, 
+#### Technical Skills: R, Python.  
 
 ## Education 
 - Ph.D., Ecology | Université Claude Bernard Lyon I (_2023_)
@@ -14,8 +14,20 @@
   
 **Research scientist @ Foundation for research on biodiversity, Montpellier - France (_2021 - 2022_)**
 - Analysed data on human population growth within and near protected areas over the last two centuries in the USA.
-- Led research on human disturbance impacts on freshwater biodiversity in New Zealand.
+- Led research on human disturbance impacts on freshwater biodiversity in New Zealand over three decades.
 -	Presented research findings orally within a large international research group (PARSEC).
+
+**Research scientist @ Institut of Research for the Exploitation of the Sea, Sète - France (_2019 - 2020_)**
+- Led and conducted a fieldwork programm to sample benthic biodiversity in Mediterranean coastal environments.
+- Led research and analyses with R on the effects of human disturbances on marine coastal biodiversity 
+
+**Research assistant @ National Institute for Water and Atmospheric Research, Hamilton - New Zealand (_2017 - 2019_)**
+- Assisted research projects with statistical modelling and GIS tasks 
+- Led research on human disturbance impacts on freshwater biodiversity in Waikato Region Streams. 
+- Conducted fieldwork in a remote New Caledonia atoll and in New Zealand streams. 
+
+
+
 
 ## Publications
 10. Mouton T.L., Gonzalez-Pestana A., Rohner C.A., Charles R., García-Rodríguez E., Kyne P.M., Batlle-Morera A., Notarbartolo di Sciara G., Armstrong A.O. et al. (2024). “Shortfalls in the protection of Important Shark and Ray Areas undermine shark conservation efforts in the Central and South American Pacific.” Submitted to: Marine Policy. (Major revisions)
