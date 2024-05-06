@@ -3,9 +3,9 @@
 #### Technical Skills: R, Python, QGIS, ArcGIS, Git, Github, Microsoft suite.  
 
 ## Education 
-- Ph.D., Ecology | Université Claude Bernard Lyon I (_2023_)
-- M.S., Ecology | Université de Pau des Pays de l'Adour (_2016_)
-- B.S., Ecology | Université de Montpellier 2 (_2014_) 
+- Ph.D., Ecology | Université Claude Bernard Lyon I, France (_2023_)
+- M.S., Ecology | Université de Pau et des Pays de l'Adour, France (_2016_)
+- B.S., Ecology | Université de Montpellier 2, France (_2014_) 
 
 ## Work Experience
 **Postdoctoral researcher @ International Union for the Conservation of Nature Species Survivial Commission Shark Specialist Group, Montpellier - France (remote) (_2023 - 2024_)**
